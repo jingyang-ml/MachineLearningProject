@@ -1,4 +1,4 @@
-# MachineLearningProject
+# MachineLearningProject - using Python with Keras, Scikit-learn, Matplotlib(Data Visualization)
 # Part 1. Develop the neural network on Pima Indians Diabetes Database using Keras
 - Train and evaluate a sequential neural network model using Keras.
 
